@@ -1,0 +1,142 @@
+.together{
+  margin-left: 50px;
+
+
+}
+.m{
+  display: inline-block;
+margin-left: 4px;
+height: 80px;
+width: 80px;
+overflow: hidden;
+
+}
+.m p{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  position: relative;
+  top: 40%;
+color: rgba(255, 255, 255,0.5);
+}
+.p h1{
+margin: 0;
+padding: 0;
+text-align: center;
+  position: relative;
+  top: 20%;
+
+}
+.p{
+  display: inline-block;
+
+color: #ffffff;
+font-size: 20px;
+height: 80px;
+width: 80px;
+overflow: hidden;
+
+}
+.right{
+  display: inline-block;
+  background-color: #2ab2af;
+  width: 370px;
+  height: 310px;
+  float: left;
+  margin-top: 0px;
+border-bottom-left-radius: 5px;
+}
+.left{
+  display: inline-block;
+  background-color: #71cbc9;
+  width: 370px;
+  height: 310px;
+  float: left;
+border-bottom-right-radius: 5px;
+
+}
+.l{
+  margin-left: 52px;
+  margin-top: 40px;
+  color: #ffffff;
+}
+.l p{
+  color: rgba(255, 255, 255,0.7);
+  font-size: 15px;
+  line-height: 1.5;
+  margin-top: 30px;
+}
+h1,h3,h4,p{
+  font-family:Karla;
+}
+.join{
+  color: hsl(179, 62%, 43%);
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+.day{
+  color: hsl(71, 73%, 54%);
+  font-weight: 700;
+font-size: 20px;
+margin-top: 0;
+margin-bottom: 20px;
+
+}
+.gain{
+  color: hsla(218, 22%, 67%,0.7);
+  font-weight: 500;
+  line-height: 1.5;
+margin-top: 0;
+margin-bottom: 40px;
+font-size: 18px;
+}
+button{
+  background-color: hsl(71, 73%, 54%);
+}
+.Top{
+margin-left: 40px;
+margin-top: 40px;
+margin-bottom: 0px;
+padding-top: 20px;
+padding-left: 20px;
+}
+.all-content{
+  background-color: #ffffff;
+  height: 540px;
+  width: 740px;
+margin:auto;
+margin-top: 200px;
+margin-bottom: 200px;
+border-radius: 5px;
+}
+.monthly{
+  color: #ffffff;
+  margin-top: 40px;
+  margin-left: 52px;
+
+font-weight: 500;
+
+font-size: 20px;
+
+}
+.full{
+
+    color: rgba(255, 255, 255,0.8);
+  margin-left: 50px;
+}
+button{
+  margin-left: 50px;
+  margin-top: 20px;
+  width: 240px;
+  height: 50px;
+  border-style: none;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bolder;
+  border-radius: 5px;
+}
+body{
+  background-color: hsl(204, 43%, 93%);
+
+}
